@@ -1,0 +1,4 @@
+/.venv
+/Data_processed
+/Data_raw
+/predictions.ipynb
